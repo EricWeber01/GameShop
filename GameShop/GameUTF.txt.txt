@@ -1,0 +1,35 @@
+The Last of Us
+Naughty Dog
+Stealth-Action
+95
+17.99
+
+God of War
+Santa Monica Studio
+Action-Adventure
+94
+17.99
+
+Ghost of Tsushima
+Sucker Punch Productions
+RPG
+83
+59.99
+
+Heavy Rain
+Quantic Dream
+FMV-Game
+78
+27.99
+
+The Last of Us: Part II
+Naughty Dog
+Action-Adventure
+93
+39.99
+
+Spider-Man
+Insomniac Games
+Action-Adventure
+87
+15.99
